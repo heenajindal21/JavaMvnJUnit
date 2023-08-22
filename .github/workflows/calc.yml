@@ -27,6 +27,6 @@ jobs:
 
          - name: target folder
            run: |
-           cd target/classes
-           java com.mycompany.app.Calculato
+            cd target/classes
+            java com.mycompany.app.Calculator
         
